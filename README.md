@@ -38,6 +38,8 @@ gemini-chat-app/
 ├── server.js            # Main Express server
 ├── package.json         # Dependencies and scripts
 └── README.md            # Project documentation
+
+
 /**************************************************************************/
 
 🔑 Environment Variables
