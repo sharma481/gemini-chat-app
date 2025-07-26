@@ -28,12 +28,18 @@ Package Manager: npm
 bash
 Copy
 Edit
+
+/**************************************************************************/
+
+
 gemini-chat-app/
 ├── public/              # Frontend files (index.html, style.css, script.js)
 ├── .env                 # API Key stored here
 ├── server.js            # Main Express server
 ├── package.json         # Dependencies and scripts
 └── README.md            # Project documentation
+/**************************************************************************/
+
 🔑 Environment Variables
 Create a .env file in the root directory and add your Gemini API key:
 
