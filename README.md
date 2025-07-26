@@ -28,7 +28,8 @@ Here are the images for my project:
 ## Image 2
 ![Description of Image 2](2.png)
 
-## Image 3
+## Image 3<img width="1470" height="956" alt="1" src="https://github.com/user-attachments/assets/7644c7e0-6649-49a9-91fb-a421c58015a5" />
+
 ![Description of Image 3](3.png)
 
 ## Image 4
